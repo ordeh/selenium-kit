@@ -103,7 +103,7 @@
                     <branch>refs/heads/master</branch>
                     <includes><include>**/*</include></includes>
                     <repositoryName>selenium-kit</repositoryName>
-                    <repositoryOwner>tasks-delivery</repositoryOwner>
+                    <repositoryOwner>ordeh</repositoryOwner>
                 </configuration>
                 <executions>
                     <execution>
