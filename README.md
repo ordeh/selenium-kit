@@ -1,2 +1,0 @@
-# selenium-kit
-Selenium wrapper
