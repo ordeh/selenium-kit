@@ -4,8 +4,8 @@
   <artifactId>selenium-kit</artifactId>
   <versioning>
     <versions>
-      <version>0.1.0-SNAPSHOT</version>
+      <version>0.2.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190516212436</lastUpdated>
+    <lastUpdated>20190516212642</lastUpdated>
   </versioning>
 </metadata>
